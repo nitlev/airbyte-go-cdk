@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/bitstrapped/airbyte"
-	"github.com/bitstrapped/airbyte/examples/httpsource/apisource"
+	"github.com/nitlev/airbyte"
+	"github.com/nitlev/airbyte/examples/httpsource/apisource"
 )
 
 func main() {

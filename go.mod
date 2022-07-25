@@ -1,3 +1,3 @@
-module github.com/bitstrapped/airbyte
+module github.com/nitlev/airbyte
 
-go 1.17
+go 1.18

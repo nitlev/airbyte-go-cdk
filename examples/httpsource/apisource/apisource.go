@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bitstrapped/airbyte"
+	"github.com/nitlev/airbyte"
 )
 
 type APISource struct {

@@ -1,12 +1,14 @@
 # Airbyte - Golang SDK/CDK
 
 This package aims to help developers build connectors (sources/destinations) really fast in Go. 
-The focus of this package is developer efficiency. It focusses on letting developers focus more on connector business logic instead of airbyte protocol knowledge. 
+The focus of this package is developer efficiency. It focuses on letting developers focus more on connector business logic instead of airbyte protocol knowledge. 
+
+**This is a fork of github.com/bitstrapped/airbyte because I need the code from the latest version which has not been released yet**
 
 ## Installation 
 
 ```
-go get github.com/bitstrapped/airbyte
+go get github.com/nitlev/airbyte
 ```
 
 ## Docs

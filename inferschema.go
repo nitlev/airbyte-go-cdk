@@ -3,7 +3,7 @@ package airbyte
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/bitstrapped/airbyte/schema"
+	"github.com/nitlev/airbyte/schema"
 	"reflect"
 )
 

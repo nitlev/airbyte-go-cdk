@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bitstrapped/airbyte"
+	"github.com/nitlev/airbyte"
 )
 
 type HTTPSource struct {
